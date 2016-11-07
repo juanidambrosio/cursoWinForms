@@ -56,7 +56,7 @@
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
-            this.listadoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reporteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
             this.SuspendLayout();
@@ -74,7 +74,7 @@
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.MdiWindowListItem = this.windowsMenu;
             this.menuStrip.Name = "menuStrip";
-            this.menuStrip.Size = new System.Drawing.Size(813, 24);
+            this.menuStrip.Size = new System.Drawing.Size(632, 24);
             this.menuStrip.TabIndex = 0;
             this.menuStrip.Text = "MenuStrip";
             // 
@@ -129,7 +129,7 @@
             // 
             this.generosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.actualizacionToolStripMenuItem,
-            this.listadoToolStripMenuItem});
+            this.reporteToolStripMenuItem});
             this.generosToolStripMenuItem.Name = "generosToolStripMenuItem";
             this.generosToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
             this.generosToolStripMenuItem.Text = "&Generos";
@@ -168,13 +168,13 @@
             // consultasToolStripMenuItem
             // 
             this.consultasToolStripMenuItem.Name = "consultasToolStripMenuItem";
-            this.consultasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.consultasToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.consultasToolStripMenuItem.Text = "Consultas";
             // 
             // actualizacionToolStripMenuItem2
             // 
             this.actualizacionToolStripMenuItem2.Name = "actualizacionToolStripMenuItem2";
-            this.actualizacionToolStripMenuItem2.Size = new System.Drawing.Size(152, 22);
+            this.actualizacionToolStripMenuItem2.Size = new System.Drawing.Size(136, 22);
             this.actualizacionToolStripMenuItem2.Text = "Actualizacion";
             this.actualizacionToolStripMenuItem2.Click += new System.EventHandler(this.actualizacionToolStripMenuItem2_Click);
             // 
@@ -189,7 +189,7 @@
             // consultarToolStripMenuItem1
             // 
             this.consultarToolStripMenuItem1.Name = "consultarToolStripMenuItem1";
-            this.consultarToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.consultarToolStripMenuItem1.Size = new System.Drawing.Size(120, 22);
             this.consultarToolStripMenuItem1.Text = "Consultar";
             // 
             // windowsMenu
@@ -258,9 +258,9 @@
             // 
             this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel});
-            this.statusStrip.Location = new System.Drawing.Point(0, 519);
+            this.statusStrip.Location = new System.Drawing.Point(0, 431);
             this.statusStrip.Name = "statusStrip";
-            this.statusStrip.Size = new System.Drawing.Size(813, 22);
+            this.statusStrip.Size = new System.Drawing.Size(632, 22);
             this.statusStrip.TabIndex = 2;
             this.statusStrip.Text = "StatusStrip";
             // 
@@ -270,18 +270,18 @@
             this.toolStripStatusLabel.Size = new System.Drawing.Size(38, 17);
             this.toolStripStatusLabel.Text = "Status";
             // 
-            // listadoToolStripMenuItem
+            // reporteToolStripMenuItem
             // 
-            this.listadoToolStripMenuItem.Name = "listadoToolStripMenuItem";
-            this.listadoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.listadoToolStripMenuItem.Text = "Listado";
-            this.listadoToolStripMenuItem.Click += new System.EventHandler(this.listadoToolStripMenuItem_Click);
+            this.reporteToolStripMenuItem.Name = "reporteToolStripMenuItem";
+            this.reporteToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.reporteToolStripMenuItem.Text = "Reporte";
+            this.reporteToolStripMenuItem.Click += new System.EventHandler(this.reporteToolStripMenuItem_Click);
             // 
             // MenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(813, 541);
+            this.ClientSize = new System.Drawing.Size(632, 453);
             this.ControlBox = false;
             this.Controls.Add(this.statusStrip);
             this.Controls.Add(this.menuStrip);
@@ -328,7 +328,7 @@
         private System.Windows.Forms.ToolStripMenuItem consultasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem actualizacionToolStripMenuItem2;
         private System.Windows.Forms.ToolStripMenuItem consultarToolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem listadoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem reporteToolStripMenuItem;
     }
 }
 

@@ -12,6 +12,22 @@
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -31,6 +47,18 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>222A8FCE845BED6492E35F1E71CCD0E07ECBDF09</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WindowsBiblioteca_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
@@ -100,6 +128,12 @@
     <Compile Include="frmListadoAutores.Designer.cs">
       <DependentUpon>frmListadoAutores.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmListadoGeneros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListadoGeneros.Designer.cs">
+      <DependentUpon>frmListadoGeneros.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmModificaAutor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,17 +146,23 @@
     <Compile Include="frmParametricas.Designer.cs">
       <DependentUpon>frmParametricas.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmReporteGeneros.cs">
+    <Compile Include="frmReporteLibros.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmReporteGeneros.Designer.cs">
-      <DependentUpon>frmReporteGeneros.cs</DependentUpon>
+    <Compile Include="frmReporteLibros.Designer.cs">
+      <DependentUpon>frmReporteLibros.cs</DependentUpon>
     </Compile>
     <Compile Include="frmVistaAutores.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmVistaAutores.Designer.cs">
       <DependentUpon>frmVistaAutores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="MenuPrincipal.cs">
       <SubType>Form</SubType>
@@ -150,17 +190,23 @@
     <EmbeddedResource Include="frmListadoAutores.resx">
       <DependentUpon>frmListadoAutores.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmListadoGeneros.resx">
+      <DependentUpon>frmListadoGeneros.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmModificaAutor.resx">
       <DependentUpon>frmModificaAutor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmParametricas.resx">
       <DependentUpon>frmParametricas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmReporteGeneros.resx">
-      <DependentUpon>frmReporteGeneros.cs</DependentUpon>
+    <EmbeddedResource Include="frmReporteLibros.resx">
+      <DependentUpon>frmReporteLibros.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmVistaAutores.resx">
       <DependentUpon>frmVistaAutores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
@@ -175,6 +221,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <EmbeddedResource Include="ReporteAutores.rdlc" />
+    <EmbeddedResource Include="ReporteGeneros.rdlc" />
     <EmbeddedResource Include="ReporteLibros.rdlc" />
     <None Include="dsAutores.xsc">
       <DependentUpon>dsAutores.xsd</DependentUpon>
@@ -218,6 +265,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="WindowsBiblioteca_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
@@ -233,6 +281,18 @@
       <Project>{1e403e27-66a2-4c7f-be68-1b0f414a78b5}</Project>
       <Name>Logica</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

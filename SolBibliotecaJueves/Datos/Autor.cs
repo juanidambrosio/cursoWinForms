@@ -137,7 +137,6 @@ namespace Datos
 
 
         }
-
         public static DataTable TraerTodos()
         {
             DataTable dt = new DataTable();
@@ -146,7 +145,6 @@ namespace Datos
             daTraerTodos.Fill(dt);
             return dt; 
         }
-
         public static Entidades.Autor TraerUno(int pIdAutor)
         {
             Entidades.Autor objEntidadAutor = new Entidades.Autor();

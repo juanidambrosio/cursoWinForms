@@ -207,7 +207,7 @@
             this.Controls.Add(this.cboAutores);
             this.Controls.Add(this.label1);
             this.Name = "frmBorrarAutor";
-            this.Text = "Borrar Autores";
+            this.Text = "frmBorrarAutor";
             this.tlpModificar.ResumeLayout(false);
             this.tlpModificar.PerformLayout();
             this.ResumeLayout(false);

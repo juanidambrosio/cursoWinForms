@@ -5,13 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using System.IO;
+using System.Net.Mail;
 
 namespace Datos
 {
     public static class Libro
     {
         // alta de libro
-        public static void Agregar(Entidades.Libro pLibro, DataTable pAutores)
+        public static void Agregar(Entidades.Libro pLibro,DataTable pAutores)
         {
             string strProc = "proc_alta_libro";
             SqlConnection objConexion = new SqlConnection(Conexion.strConexion);
@@ -61,11 +63,21 @@ namespace Datos
             daTraer.Fill(dtLibros);
             return dtLibros;
         }
-
+        public static DataTable TraerParaModificacion()
+        {
+            DataTable dtLibros = new DataTable();
+            string strSQL = "Select * from v_libros ";
+            SqlDataAdapter daTraer = new SqlDataAdapter(strSQL, Conexion.strConexion);
+            daTraer.Fill(dtLibros);
+            return dtLibros;
+        }
         public static List<Entidades.Autor> TraerAutoresxISBN(string pISBN)
         {
             List<Entidades.Autor> lista = new List<Entidades.Autor>();
-            string strSQL = "select a.Apellido,a.Nombre from LibrosAutores la join autores a on a.IdAutor=la.IdAutor where la.isbn=" + pISBN;
+            string strSQL = @"select 
+                            a.Apellido,a.Nombre from LibrosAutores 
+                            la join autores a on a.idAutor=la.idAutor 
+                            where la.isbn=" + pISBN;
 
             SqlConnection objConexion = new SqlConnection(Conexion.strConexion);
             SqlDataReader drLibro;
@@ -82,28 +94,20 @@ namespace Datos
             }
             objConexion.Close();
             return lista;
+
         }
 
-        public static DataTable TraerParaModificar()
-        {
-            DataTable dtLibros = new DataTable();
-            string strSQL = "Select * from vista_modifica_libros ";
-            SqlDataAdapter daTraer = new SqlDataAdapter(strSQL, Conexion.strConexion);
-            daTraer.Fill(dtLibros);
-            return dtLibros;
-        }
-
-        public static Entidades.Libro TraerUno(string ISBN)
+        public static Entidades.Libro TraerUno(string pISBN)
         {
             Entidades.Libro objEntidadLibro = new Entidades.Libro();
-            string strSQL = "Select* from Libros where isbn = " + ISBN;
+            string strSQL = "Select * from Libros where isbn=" + pISBN;
             SqlConnection objConexion = new SqlConnection(Conexion.strConexion);
             SqlDataReader drLibro;
             SqlCommand comLibro = new SqlCommand(strSQL, objConexion);
             objConexion.Open();
             drLibro = comLibro.ExecuteReader();
             drLibro.Read();
-            objEntidadLibro.ISBN = drLibro["ISBN"].ToString();
+            objEntidadLibro.ISBN = drLibro["Isbn"].ToString();
             objEntidadLibro.Titulo = drLibro["Titulo"].ToString();
 
             Entidades.Genero g = new Entidades.Genero();
@@ -111,7 +115,7 @@ namespace Datos
             objEntidadLibro.Genero = g;
 
             Entidades.Editorial e = new Entidades.Editorial();
-            e.ID = Convert.ToInt32(drLibro["IdEditorial"]);
+            e.ID = Convert.ToInt32(drLibro["idEditorial"]);
             objEntidadLibro.Editorial = e;
 
             objEntidadLibro.Edicion = Convert.ToInt32(drLibro["Edicion"]);
@@ -119,6 +123,82 @@ namespace Datos
             objConexion.Close();
 
             return objEntidadLibro;
-         }
+
+
+        }
+
+        public static void Modificar(Entidades.Libro pLibro)
+        {
+            // creo objeto de conexion
+            SqlConnection objConexion = new SqlConnection(Conexion.strConexion);
+            string strProc = "proc_modi_libro";
+            SqlCommand comModificar = new SqlCommand(strProc, objConexion);
+            // le aclaro que el primer argumento del constructor es un SP
+            comModificar.CommandType = CommandType.StoredProcedure;
+            comModificar.Parameters.AddWithValue("@ISBN", pLibro.ISBN);
+            comModificar.Parameters.AddWithValue("@Titulo", pLibro.Titulo);
+            comModificar.Parameters.AddWithValue("@Edicion", pLibro.Edicion);
+            comModificar.Parameters.AddWithValue("@IdGenero", pLibro.Genero.ID);
+            comModificar.Parameters.AddWithValue("@IdEditorial", pLibro.Editorial.ID);
+            try
+            {
+                // abro la conexion
+                objConexion.Open();
+                // ejecuto el comando
+                comModificar.ExecuteNonQuery();
+
+            }
+         
+            catch (Exception)
+            {
+                throw new Exception("Error en la capa de datos");
+
+            }
+
+            finally
+            {
+                // SE EJECUTA SIEMPRE
+                // cierro la conexion
+                if (objConexion.State == ConnectionState.Open)
+                    objConexion.Close();
+            }
+        }
+
+        public static List<Entidades.Libro> TraerNovedades()
+        {
+            List<Entidades.Libro> Novedades = new List<Entidades.Libro>();
+            string linea;
+            StreamReader archivo = new StreamReader(@"C:\Documentos\Novedades.txt");
+
+            while ((linea = archivo.ReadLine()) != null)
+            {
+                Entidades.Libro libro = new Entidades.Libro();
+                libro.Titulo = linea;
+                Novedades.Add(libro);
+            }
+
+            archivo.Close();
+            return Novedades;
+        }
+
+        public static void Comprar(List<string> libros)
+        {
+            StreamWriter file = new StreamWriter(@"C:\Documentos\Compras.txt");
+            foreach (string item in libros)
+            {
+                file.WriteLine(item);
+            }
+            file.Close();
+        }
+
+        public static void EnviarCorreo(MailMessage pMensaje)
+        {
+            SmtpClient server = new SmtpClient("smtp.live.com", 587);
+            server.Credentials = new System.Net.NetworkCredential("p.romanazzi@live.com.ar", "password");
+            server.EnableSsl = true;
+            server.Send(pMensaje);
+
+        }
+
     }
 }

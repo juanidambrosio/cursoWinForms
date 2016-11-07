@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -50,9 +51,9 @@ namespace WindowsBiblioteca
         {
             dgvAutores.AutoGenerateColumns = false;
             dgvAutores.DataSource = objLogicaAutor.TraerTodos();
-            dgvAutores.Columns[0].Width = 100;
+            dgvAutores.Columns[0].Width = 52;
             dgvAutores.Columns[1].Width = 300;
-            dgvAutores.Columns[2].Width = 100;
+            dgvAutores.Columns[2].Width = 58;
         }
         private void frmLibros_Load(object sender, EventArgs e)
         {
@@ -64,7 +65,7 @@ namespace WindowsBiblioteca
             this.reportViewer1.RefreshReport();
         }
 
-        private void btnConfirmar_Click(object sender, EventArgs e)
+        private void btnConfirmarNuevo_Click(object sender, EventArgs e)
         {
             // cargo propiedades en entidad libro
             try
@@ -114,35 +115,53 @@ namespace WindowsBiblioteca
 
         private void tcLibros_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if (tcLibros.SelectedTab == tcLibros.TabPages[1])
+            {
+                DataTable dt = objLogicaLibro.TraerParaModificacion();
+                cboLibros.DataSource = dt;
+                cboLibros.DisplayMember = "Libro";
+                cboLibros.ValueMember = "isbn";
+                DataRow dr = dt.NewRow();
+                dr["Libro"] = "<< Seleccione >> ";
+                dr["isbn"] = 0;
+                dt.Rows.InsertAt(dr, 0);
+                this.cboLibros.SelectedValue = 0;
+
+
+                this.cboLibros.SelectedIndexChanged += new System.EventHandler(this.cboLibros_SelectedIndexChanged);
+                LlenarCombosModificacion();
+
+            }
             if (tcLibros.SelectedTab == tcLibros.TabPages[3])
             {
                 // cargo el datagrid
                 dvLibros = objLogicaLibro.TraerTodos().DefaultView;
                 dgvLibros.DataSource = dvLibros;
-                dgvLibros.Columns[0].Width = 60; //autor
-                dgvLibros.Columns[1].Width = 60; //isbn
-                dgvLibros.Columns[2].Width = 260; //nombre
-                dgvLibros.Columns[3].Width = 50; //edicion
-                dgvLibros.Columns[4].Width = 100; //genero
-                dgvLibros.Columns[5].Width = 200; //editorial
+                dgvLibros.Columns[0].Width = 60; // autores
+                dgvLibros.Columns[1].Width = 60; // isbn
+                dgvLibros.Columns[2].Width = 220; // nombre
+                dgvLibros.Columns[3].Width = 50; // edicion
+                dgvLibros.Columns[4].Width = 100; // genero
+                dgvLibros.Columns[5].Width = 100; // editorial
+                
+
                 dgvLibros.Columns["Autores"].DisplayIndex = 0;
-                txtfiltro.Focus();
+                
+                txtFiltro.Focus();
                 cboFiltro.Text = "Nombre";
 
             }
 
-            if(tcLibros.SelectedTab == tcLibros.TabPages[1])
+            if (tcLibros.SelectedTab == tcLibros.TabPages[5])
             {
-                cboLibro.DataSource = objLogicaLibro.TraerParaModificar();
-                cboLibro.DisplayMember = "Libro";
-                cboLibro.ValueMember = "ISBN";
-                this.cboLibro.SelectedIndexChanged += new System.EventHandler(this.cboLibro_SelectedIndexChanged);
+                dgvNovedades.AutoGenerateColumns = false;
+                dgvNovedades.DataSource = objLogicaLibro.TraerNovedades();
             }
         }
 
-        private void txtfiltro_TextChanged(object sender, EventArgs e)
+        private void txtFiltro_TextChanged(object sender, EventArgs e)
         {
-            dvLibros.RowFilter = cboFiltro.SelectedItem + " like'%" + txtfiltro.Text + "%'";
+            dvLibros.RowFilter = cboFiltro.SelectedItem + " like '%" + txtFiltro.Text + "%'";
             dgvLibros.DataSource = dvLibros;
         }
 
@@ -154,7 +173,8 @@ namespace WindowsBiblioteca
             {
                 // recupero el ISBN del libro
                 string strISBN = dgvLibros.CurrentRow.Cells[1].Value.ToString();
-                List<Entidades.Autor> ListaAutores = objLogicaLibro.TraerAutoresPorISBN(strISBN);
+             
+                List<Entidades.Autor> ListaAutores = objLogicaLibro.TraerAutoresxISBN(strISBN);
 
                 StringBuilder autores = new StringBuilder();
 
@@ -168,15 +188,86 @@ namespace WindowsBiblioteca
             }
         }
 
-        private void cboLibro_SelectedIndexChanged(object sender, EventArgs e)
+        private void cboLibros_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string strISBN = cboLibro.SelectedValue.ToString();
+            string strISBN = cboLibros.SelectedValue.ToString();
             objEntidadLibro = objLogicaLibro.TraerUno(strISBN);
             txtISBNModi.Text = objEntidadLibro.ISBN;
             txtTituloModi.Text = objEntidadLibro.Titulo;
             txtEdicionModi.Text = objEntidadLibro.Edicion.ToString();
-            cboGeneroModi.Text = objEntidadLibro.Genero.Descripcion;
-            cboEditorialModi.Text = objEntidadLibro.Editorial.Descripcion;
+            // asignar valores a los combos de genero y editoriales
+            cboGenerosModi.SelectedValue = objEntidadLibro.Genero.ID;
+            cboEditorialesModi.SelectedValue = objEntidadLibro.Editorial.ID;
+
+
+        }
+
+        void LlenarCombosModificacion()
+        {
+            // llenar generos
+            Logica.Genero objLogicaGenero = new Logica.Genero();
+            cboGenerosModi.DataSource = objLogicaGenero.TraerTodos(); ;
+            cboGenerosModi.ValueMember = "Id";
+            cboGenerosModi.DisplayMember = "Descripcion";
+
+            // llenar editoriales
+            Logica.Editorial objLogicaEditorial = new Logica.Editorial();
+            cboEditorialesModi.DataSource = objLogicaEditorial.TraerTodos();
+            cboEditorialesModi.ValueMember = "Id";
+            cboEditorialesModi.DisplayMember = "Descripcion";
+        }
+
+        private void btnConfirmarModi_Click(object sender, EventArgs e)
+        {
+            Entidades.Libro objEntidadLibro = new Entidades.Libro();
+            objEntidadLibro.ISBN = txtISBNModi.Text;
+            objEntidadLibro.Titulo = txtTituloModi.Text;
+            objEntidadLibro.Edicion = Convert.ToInt32(txtEdicionModi.Text);
+            Entidades.Genero objGenero = new Entidades.Genero();
+            objGenero.ID = Convert.ToInt32(cboGenerosModi.SelectedValue);
+            objEntidadLibro.Genero = objGenero;
+            Entidades.Editorial objEditorial = new Entidades.Editorial();
+            objEditorial.ID = Convert.ToInt32(cboEditorialesModi.SelectedValue);
+            objEntidadLibro.Editorial = objEditorial;
+            objLogicaLibro.Modificar(objEntidadLibro);
+            MessageBox.Show("Libro Modificado !!");
+            cboLibros.DataSource = objLogicaLibro.TraerParaModificacion();
+            cboLibros.DisplayMember = "Libro";
+            cboLibros.ValueMember = "isbn";
+        }
+
+
+        private void btnComprar_Click_1(object sender, EventArgs e)
+        {
+            List<string> compras = new List<string>();
+
+            foreach (DataGridViewRow fila in dgvNovedades.Rows)
+            {
+                if (Convert.ToBoolean(fila.Cells["Comprar"].Value))
+                {
+                    compras.Add(fila.Cells["Libro"].Value.ToString());
+                }
+            }
+            objLogicaLibro.Comprar(compras);
+            MessageBox.Show("Archivo de compras generado!");
+
+            //ENVIAR MAIL
+
+            // enviar correo
+            MailMessage mnsj = new MailMessage();
+            mnsj.Subject = "Compra de Libros";
+
+            mnsj.To.Add(new MailAddress("p.romanazzi@live.com.ar"));
+
+            mnsj.From = new MailAddress("p.romanazzi@live.com.ar", "Curso programacion .NET");
+
+            /* Adjunto archivo comprar.txt*/
+            mnsj.Attachments.Add(new Attachment(@"C:\Documentos\Compras.txt"));
+            mnsj.Body = " Envio archivo con las compras \n\n de libros solicitados \n\n Muchas Gracias ";
+
+            /* Enviar */
+            objLogicaLibro.EnviarCorreo(mnsj);
+            MessageBox.Show("El Mail con archivo de compras se ha Enviado Correctamente!!", "COMPRA", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
         }
     }
 }

@@ -205,10 +205,10 @@ namespace WindowsBiblioteca
             objForm.Show();
         }
 
-        private void listadoToolStripMenuItem_Click(object sender, EventArgs e)
+        private void reporteToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // 1. Crear un objeto del form a mostrar
-            frmReporteGeneros objForm = new frmReporteGeneros();
+            frmListadoGeneros objForm = new frmListadoGeneros();
             // 2. Establecer que ese form sea hijo del
             // menu principal ( mdi)
             objForm.MdiParent = this;

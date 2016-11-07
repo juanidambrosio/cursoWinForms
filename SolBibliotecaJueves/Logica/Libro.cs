@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -40,27 +41,51 @@ namespace Logica
 
         }
         public void Modificar() { }
-
         public List<Entidades.Libro> Listar()
         {
             List<Entidades.Libro> lista = new List<Entidades.Libro>();
             return lista;
 
         }
-
-        public List<Entidades.Autor> TraerAutoresPorISBN(string ISBN)
+        public List<Entidades.Autor> TraerAutoresxISBN(string pISBN)
         {
-            return Datos.Libro.TraerAutoresxISBN(ISBN);
+            return Datos.Libro.TraerAutoresxISBN(pISBN);
+        }
+        public DataTable TraerParaModificacion()
+        {
+            return Datos.Libro.TraerParaModificacion();
+        }
+        public Entidades.Libro TraerUno(string pISBN)
+        {
+            return Datos.Libro.TraerUno(pISBN);
         }
 
-        public DataTable TraerParaModificar()
+        public void Modificar(Entidades.Libro plibro)
         {
-            return Datos.Libro.TraerParaModificar();
+            try
+            {
+                Datos.Libro.Modificar(plibro);
+            }
+            catch (Exception ex)
+            {
+
+                throw new Exception(ex.Message);
+            }
         }
 
-        public Entidades.Libro TraerUno(string ISBN)
+        public List<Entidades.Libro> TraerNovedades()
         {
-            return Datos.Libro.TraerUno(ISBN);
+            return Datos.Libro.TraerNovedades();
+        }
+
+        public void Comprar(List<string> libros)
+        {
+            Datos.Libro.Comprar(libros);
+        }
+
+        public void EnviarCorreo(MailMessage mensaje)
+        {
+            Datos.Libro.EnviarCorreo(mensaje);
         }
     }
 }
