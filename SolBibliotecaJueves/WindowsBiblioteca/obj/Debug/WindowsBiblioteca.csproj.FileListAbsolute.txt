@@ -1,0 +1,257 @@
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.Properties.Resources.resources
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+\\192.168.0.100\Box\#CursosPedro\PROG_NET_LUNES_JUEVES\Clase6\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+\\192.168.0.100\Box\#CursosPedro\PROG_NET_LUNES_JUEVES\Clase6\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+\\192.168.0.100\Box\#CursosPedro\PROG_NET_LUNES_JUEVES\Clase6\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.MenuPrincipal.resources
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmAltaAutor.resources
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmAltaAutor.resources
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.MenuPrincipal.resources
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.Properties.Resources.resources
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmVistaAutores.resources
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmAltaAutor.resources
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmVistaAutores.resources
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.MenuPrincipal.resources
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.Properties.Resources.resources
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmModificaAutor.resources
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmBorrarAutor.resources
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmListadoAutores.resources
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.cache
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.compiled
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmAltaAutor.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmBorrarAutor.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmGenero.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmListadoAutores.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmModificaAutor.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmParametricas.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmVistaAutores.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.MenuPrincipal.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.Properties.Resources.resources
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmEditorial.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmAltaAutor.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmBorrarAutor.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmEditorial.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmGenero.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmListadoAutores.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmModificaAutor.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmParametricas.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmVistaAutores.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.MenuPrincipal.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.Properties.Resources.resources
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csproj.GenerateResource.Cache
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.cache
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.compiled
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmLibros.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmAltaAutor.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmBorrarAutor.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmEditorial.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmGenero.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmLibros.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmListadoAutores.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmModificaAutor.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmParametricas.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmVistaAutores.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.MenuPrincipal.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.Properties.Resources.resources
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csproj.GenerateResource.Cache
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.cache
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.compiled
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.pdb
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.pdb
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.pdb
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.pdb
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmAltaAutor.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmBorrarAutor.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmEditorial.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmGenero.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmLibros.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmListadoAutores.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmModificaAutor.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmParametricas.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmVistaAutores.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.MenuPrincipal.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.Properties.Resources.resources
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csproj.GenerateResource.Cache
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.cache
+C:\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.compiled
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe.config
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.exe
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.exe
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\WindowsBiblioteca.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Microsoft.SqlServer.Types.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Entidades.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Logica.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\Datos.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmAltaAutor.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmBorrarAutor.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmEditorial.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmGenero.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmLibros.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmListadoAutores.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmModificaAutor.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmParametricas.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmVistaAutores.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.MenuPrincipal.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.Properties.Resources.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.csproj.GenerateResource.Cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\RdlCompile.compiled
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Debug\WindowsBiblioteca.frmReporteGeneros.resources

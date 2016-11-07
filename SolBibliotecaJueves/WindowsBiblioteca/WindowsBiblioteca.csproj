@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7C867DF5-5B82-403C-9E72-C21F24A1F5E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsBiblioteca</RootNamespace>
+    <AssemblyName>WindowsBiblioteca</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dsAutores.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsAutores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsGeneros.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsGeneros.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsLibros.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsLibros.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltaAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltaAutor.Designer.cs">
+      <DependentUpon>frmAltaAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBorrarAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBorrarAutor.Designer.cs">
+      <DependentUpon>frmBorrarAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditorial.Designer.cs">
+      <DependentUpon>frmEditorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenero.Designer.cs">
+      <DependentUpon>frmGenero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLibros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLibros.Designer.cs">
+      <DependentUpon>frmLibros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListadoAutores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListadoAutores.Designer.cs">
+      <DependentUpon>frmListadoAutores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModificaAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificaAutor.Designer.cs">
+      <DependentUpon>frmModificaAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParametricas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParametricas.Designer.cs">
+      <DependentUpon>frmParametricas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteGeneros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteGeneros.Designer.cs">
+      <DependentUpon>frmReporteGeneros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVistaAutores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVistaAutores.Designer.cs">
+      <DependentUpon>frmVistaAutores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAltaAutor.resx">
+      <DependentUpon>frmAltaAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBorrarAutor.resx">
+      <DependentUpon>frmBorrarAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditorial.resx">
+      <DependentUpon>frmEditorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenero.resx">
+      <DependentUpon>frmGenero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLibros.resx">
+      <DependentUpon>frmLibros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListadoAutores.resx">
+      <DependentUpon>frmListadoAutores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificaAutor.resx">
+      <DependentUpon>frmModificaAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametricas.resx">
+      <DependentUpon>frmParametricas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteGeneros.resx">
+      <DependentUpon>frmReporteGeneros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVistaAutores.resx">
+      <DependentUpon>frmVistaAutores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReporteAutores.rdlc" />
+    <EmbeddedResource Include="ReporteLibros.rdlc" />
+    <None Include="dsAutores.xsc">
+      <DependentUpon>dsAutores.xsd</DependentUpon>
+    </None>
+    <None Include="dsAutores.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsAutores.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsAutores.xss">
+      <DependentUpon>dsAutores.xsd</DependentUpon>
+    </None>
+    <None Include="dsGeneros.xsc">
+      <DependentUpon>dsGeneros.xsd</DependentUpon>
+    </None>
+    <None Include="dsGeneros.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsGeneros.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsGeneros.xss">
+      <DependentUpon>dsGeneros.xsd</DependentUpon>
+    </None>
+    <None Include="dsLibros.xsc">
+      <DependentUpon>dsLibros.xsd</DependentUpon>
+    </None>
+    <None Include="dsLibros.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsLibros.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsLibros.xss">
+      <DependentUpon>dsLibros.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{32b09d1e-dc51-4167-99b7-6d5ea97b0162}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{1e403e27-66a2-4c7f-be68-1b0f414a78b5}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

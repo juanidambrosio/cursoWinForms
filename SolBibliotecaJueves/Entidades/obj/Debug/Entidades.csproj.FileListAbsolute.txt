@@ -1,0 +1,34 @@
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.pdb
+C:\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.dll
+C:\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.pdb
+C:\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.dll
+C:\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Entidades\bin\Debug\Entidades.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Entidades\obj\Debug\Entidades.pdb

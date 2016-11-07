@@ -1,0 +1,72 @@
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\obj\Debug\Logica.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\obj\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Logica\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\obj\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Logica\obj\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\obj\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Logica\obj\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\obj\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Logica\obj\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Logica.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\obj\Debug\Logica.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Logica\obj\Debug\Logica.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\obj\Debug\Logica.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\obj\Debug\Logica.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Logica.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Logica.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Datos.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Entidades.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Datos.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Logica\bin\Debug\Entidades.pdb
+C:\SolBibliotecaJueves\Logica\bin\Debug\Logica.dll
+C:\SolBibliotecaJueves\Logica\bin\Debug\Logica.pdb
+C:\SolBibliotecaJueves\Logica\bin\Debug\Datos.dll
+C:\SolBibliotecaJueves\Logica\bin\Debug\Entidades.dll
+C:\SolBibliotecaJueves\Logica\bin\Debug\Datos.pdb
+C:\SolBibliotecaJueves\Logica\bin\Debug\Entidades.pdb
+C:\SolBibliotecaJueves\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\SolBibliotecaJueves\Logica\obj\Debug\Logica.dll
+C:\SolBibliotecaJueves\Logica\obj\Debug\Logica.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Debug\Logica.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Debug\Logica.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Debug\Datos.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Debug\Entidades.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Debug\Datos.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Debug\Entidades.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\obj\Debug\Logica.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\obj\Debug\Logica.pdb

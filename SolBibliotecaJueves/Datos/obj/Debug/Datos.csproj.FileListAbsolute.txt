@@ -1,0 +1,61 @@
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Datos\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Datos\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Datos\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Datos\obj\Debug\Datos.dll
+C:\Users\educacionit\Desktop\SolBibliotecaJueves\Datos\obj\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Datos\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Datos\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Datos\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Datos\obj\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase8\SolBibliotecaJueves\Datos\obj\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Datos\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Datos\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Datos\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Datos\obj\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clas9\SolBibliotecaJueves\Datos\obj\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll.config
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Datos\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Datos\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Datos\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Datos\obj\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase10\SolBibliotecaJueves\Datos\obj\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll.config
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Datos.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Entidades.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Entidades.pdb
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Datos\obj\Debug\Datos.dll
+C:\Users\educacionit\Desktop\Clase11\SolBibliotecaJueves\Datos\obj\Debug\Datos.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Datos\obj\Debug\Datos.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Datos\obj\Debug\Datos.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll.config
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Datos.pdb
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Entidades.dll
+C:\#CursosPedro\#PROGNET_LUNES_JUEVES\Clase11\SolBibliotecaJueves\Datos\bin\Debug\Entidades.pdb
+C:\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll.config
+C:\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll
+C:\SolBibliotecaJueves\Datos\bin\Debug\Datos.pdb
+C:\SolBibliotecaJueves\Datos\bin\Debug\Entidades.dll
+C:\SolBibliotecaJueves\Datos\bin\Debug\Entidades.pdb
+C:\SolBibliotecaJueves\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\SolBibliotecaJueves\Datos\obj\Debug\Datos.dll
+C:\SolBibliotecaJueves\Datos\obj\Debug\Datos.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll.config
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Debug\Datos.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Debug\Datos.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Debug\Entidades.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Debug\Entidades.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\obj\Debug\Datos.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\obj\Debug\Datos.pdb

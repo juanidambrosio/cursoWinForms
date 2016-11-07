@@ -1,0 +1,9 @@
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Release\Logica.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Release\Logica.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Release\Entidades.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Release\Entidades.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\obj\Release\Logica.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\obj\Release\Logica.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Release\Datos.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Logica\bin\Release\Datos.pdb

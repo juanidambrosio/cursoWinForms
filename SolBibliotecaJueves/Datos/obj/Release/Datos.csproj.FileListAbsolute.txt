@@ -1,0 +1,8 @@
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Release\Datos.dll.config
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Release\Datos.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Release\Datos.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Release\Entidades.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\bin\Release\Entidades.pdb
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\obj\Release\Datos.dll
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\Datos\obj\Release\Datos.pdb

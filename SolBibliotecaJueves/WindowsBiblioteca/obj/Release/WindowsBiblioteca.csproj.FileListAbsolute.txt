@@ -1,0 +1,16 @@
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\bin\Release\WindowsBiblioteca.exe.config
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.csprojResolveAssemblyReference.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmAltaAutor.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmBorrarAutor.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmEditorial.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmGenero.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmLibros.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmListadoAutores.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmModificaAutor.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmParametricas.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.frmVistaAutores.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.MenuPrincipal.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.Properties.Resources.resources
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\WindowsBiblioteca.csproj.GenerateResource.Cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\RdlCompile.cache
+\\192.168.0.100\Box\Juan DAmbrosio\SolBibliotecaJueves\WindowsBiblioteca\obj\Release\RdlCompile.compiled
